@@ -6,6 +6,7 @@
 1. Ha grundläggande förståelse för varför utvecklare väljer att använda sig av React
 2. Kunna använda sig av komponenter
 3. Kunna använda sig av props och state
+4. Grunderna i TypeScript
 
 ## Material
 #### E-Learning:
