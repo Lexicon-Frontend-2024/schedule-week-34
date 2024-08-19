@@ -10,6 +10,8 @@
 ## Material
 #### E-Learning:
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material)
+* [React Intro](https://app.pluralsight.com/library/courses/react-what-is/table-of-contents)
+* [State i React](https://app.pluralsight.com/ilx/video-courses/clips/9ae849e3-419e-43d2-b6c1-12b2f4bf3b68)
 
 
 ## Övningar:
