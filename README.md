@@ -18,6 +18,7 @@
 * [TypeScript i React](https://react.dev/learn/typescript)
 
 #### YouTube:
+* [Learn TS generics](https://www.youtube.com/watch?v=EcCTIExsqmI)
 * [React med TS, crash course](https://www.youtube.com/watch?v=TPACABQTHvM)
 
 ## Övningar:
