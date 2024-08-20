@@ -14,6 +14,9 @@
 * [React Intro](https://app.pluralsight.com/library/courses/react-what-is/table-of-contents)
 * [State i React](https://app.pluralsight.com/ilx/video-courses/clips/9ae849e3-419e-43d2-b6c1-12b2f4bf3b68)
 
+#### Läsning:
+* [TypeScript i React](https://react.dev/learn/typescript)
+
 
 ## Övningar:
 
