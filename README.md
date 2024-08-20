@@ -18,7 +18,7 @@
 * [TypeScript i React](https://react.dev/learn/typescript)
 
 #### YouTube:
-* [React med TS](https://www.youtube.com/watch?v=TPACABQTHvM)
+* [React med TS, crash course](https://www.youtube.com/watch?v=TPACABQTHvM)
 
 ## Övningar:
 
