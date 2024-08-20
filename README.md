@@ -20,3 +20,4 @@
 
 ## Slides:
 * [React Components](https://docs.google.com/presentation/d/1SsDEx-SZLKYX9YHFOz-mojPEElNdYk1fbc6tYFxbFoI/edit?usp=sharing)
+* [React TypeScript](https://docs.google.com/presentation/d/1qE3UnhxWFbvhJ1NHNBPIbKnQIeGnX3Ke9e3Arwp03CM/edit?usp=sharing)
