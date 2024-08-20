@@ -19,3 +19,4 @@
 
 
 ## Slides:
+* [React Components](https://docs.google.com/presentation/d/1SsDEx-SZLKYX9YHFOz-mojPEElNdYk1fbc6tYFxbFoI/edit?usp=sharing)
