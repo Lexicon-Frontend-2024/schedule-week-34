@@ -22,7 +22,7 @@
 * [React med TS, crash course](https://www.youtube.com/watch?v=TPACABQTHvM)
 
 ## Övningar:
-
+* [To Do-projekt](https://github.com/Lexicon-Frontend-2024/exercise-react-todo-app/tree/main) - code review kl.9 på fredag
 
 ## Slides:
 * [React Components](https://docs.google.com/presentation/d/1SsDEx-SZLKYX9YHFOz-mojPEElNdYk1fbc6tYFxbFoI/edit?usp=sharing)
