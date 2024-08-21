@@ -34,3 +34,4 @@
 ## Lektionsrepon:
 * [Måndag](https://github.com/Lexicon-Frontend-2024/lecture-19-augusti)
 * [Tisdag](https://github.com/Lexicon-Frontend-2024/lecture-20-aug)
+* [Onsdag](https://github.com/Lexicon-Frontend-2024/lecture-21-aug)
