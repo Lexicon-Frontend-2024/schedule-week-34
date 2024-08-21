@@ -27,6 +27,7 @@
 ## Slides:
 * [React Components](https://docs.google.com/presentation/d/1SsDEx-SZLKYX9YHFOz-mojPEElNdYk1fbc6tYFxbFoI/edit?usp=sharing)
 * [React TypeScript](https://docs.google.com/presentation/d/1qE3UnhxWFbvhJ1NHNBPIbKnQIeGnX3Ke9e3Arwp03CM/edit?usp=sharing)
+* [React Props](https://docs.google.com/presentation/d/1ONe06YEPrAFM8b9zgndFXGfgIGyOWt6YP7F-_nEOlDw/edit?usp=sharing)
 
 ## Lektionsrepon:
 * [Måndag](https://github.com/Lexicon-Frontend-2024/lecture-19-augusti)
