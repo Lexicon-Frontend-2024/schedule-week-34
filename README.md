@@ -17,11 +17,12 @@
 #### Läsning:
 * [TypeScript i React](https://react.dev/learn/typescript)
 * [JSX Intro](https://legacy.reactjs.org/docs/introducing-jsx.html)
-* [Förklaring på alla himla filer som kommer i React-projektet](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
+* [Förklaring på vissa filer som kommer i React-projekt](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
 
 #### YouTube:
 * [Learn TS generics](https://www.youtube.com/watch?v=EcCTIExsqmI)
 * [React med TS, crash course](https://www.youtube.com/watch?v=TPACABQTHvM)
+* [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
 * [To Do-projekt](https://github.com/Lexicon-Frontend-2024/exercise-react-todo-app/tree/main) - code review kl.9 på fredag
