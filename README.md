@@ -16,6 +16,7 @@
 
 #### Läsning:
 * [TypeScript i React](https://react.dev/learn/typescript)
+* [JSX Intro](https://legacy.reactjs.org/docs/introducing-jsx.html)
 
 #### YouTube:
 * [Learn TS generics](https://www.youtube.com/watch?v=EcCTIExsqmI)
