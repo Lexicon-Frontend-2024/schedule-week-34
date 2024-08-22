@@ -34,6 +34,6 @@
 * [React Props](https://docs.google.com/presentation/d/1ONe06YEPrAFM8b9zgndFXGfgIGyOWt6YP7F-_nEOlDw/edit?usp=sharing)
 
 ## Lektionsrepon:
-* [Måndag](https://github.com/Lexicon-Frontend-2024/lecture-19-augusti)
-* [Tisdag](https://github.com/Lexicon-Frontend-2024/lecture-20-aug)
-* [Onsdag](https://github.com/Lexicon-Frontend-2024/lecture-21-aug)
+* [Måndag](https://github.com/Lexicon-Frontend-2024/lecture-19-augusti) - intro till react och ts
+* [Tisdag](https://github.com/Lexicon-Frontend-2024/lecture-20-aug) - intro till komponenter och state
+* [Onsdag](https://github.com/Lexicon-Frontend-2024/lecture-21-aug) - intro till komponenter, props och interface
