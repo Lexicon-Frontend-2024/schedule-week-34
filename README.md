@@ -37,3 +37,4 @@
 * [Måndag](https://github.com/Lexicon-Frontend-2024/lecture-19-augusti) - intro till react och ts
 * [Tisdag](https://github.com/Lexicon-Frontend-2024/lecture-20-aug) - intro till komponenter och state
 * [Onsdag](https://github.com/Lexicon-Frontend-2024/lecture-21-aug) - intro till komponenter, props och interface
+* [Torsdag](https://github.com/Lexicon-Frontend-2024/lecture-22-aug) - Code along på komponenter, props, state, eventhantering och interface
